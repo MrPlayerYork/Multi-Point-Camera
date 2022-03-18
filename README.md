@@ -7,6 +7,7 @@
 - [Usage](#usage)
 - [ToDo](./TODO.md)
 - [ChangeLog](./ChangeLog.md)
+- [License](./LICENSE.md)
 
 ## About <a name = "about"></a>
 
