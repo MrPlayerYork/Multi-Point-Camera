@@ -5,9 +5,9 @@
 - [About](#about)
 - [Installing](#install)
 - [Usage](#usage)
-- [ToDo](./TODO.md)
 - [ChangeLog](./ChangeLog.md)
 - [License](./LICENSE.md)
+- [![](https://i.imgur.com/lLhJl7q.png)](https://trello.com/b/iAzGWaFD)
 
 ## About <a name = "about"></a>
 
