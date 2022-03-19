@@ -17,7 +17,7 @@ The camera has a few options when setting up, one of which is preview mode. Prev
 
 MPC is made with efficency in mind and uses as little resources as possible. Flight paths can be stored away for future uses and the most recent path will be kept, unless the delete command is run.
 
-### Installing <a name = "install"></a>
+## Installing <a name = "install"></a>
 
 Setup is super simple. The zip file of the datapack is setup so all you need to do is drag and drop the folder into your datapacks folder. If you are unsure if the pack is running, you can type `/trigger mpctest` and the pack will let you know if it's running.
 
