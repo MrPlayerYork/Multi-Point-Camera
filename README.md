@@ -7,7 +7,7 @@
 - [Usage](#usage)
 - [ChangeLog](./ChangeLog.md)
 - [License](./LICENSE.md)
-- [![](https://i.imgur.com/lLhJl7q.png)](https://trello.com/b/iAzGWaFD)
+- [![Trello](https://i.imgur.com/ymY0Rp3.png)](https://trello.com/b/iAzGWaFD)
 
 ## About <a name = "about"></a>
 
