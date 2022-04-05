@@ -1,6 +1,6 @@
 # Multi-Point Camera
 
-[![status](https://i.imgur.com/v1lBruN.png)]
+[![status](https://i.imgur.com/v1lBruN.png)]()
 
 ## Table of Contents
 
